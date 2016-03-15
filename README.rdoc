@@ -4,10 +4,10 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Integrantes:
-Angelo Rusca
-Antonio Mamani
-Roberto Rodriguez
-Oscar Alvarez
+* Angelo Rusca
+* Antonio Mamani
+* Roberto Rodriguez
+* Oscar Alvarez
 
 Things you may want to cover:
 

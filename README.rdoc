@@ -9,6 +9,8 @@ Integrantes:
 * Roberto Rodriguez
 * Oscar Alvarez
 
+==> trabajemos en el proyecto
+
 Things you may want to cover:
 
 * Ruby version

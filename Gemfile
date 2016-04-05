@@ -45,8 +45,20 @@ group :development do
   gem 'spring'
 end
 
-gem 'therubyracer'
+ # Bootstrap Frontend Framework Support
+  gem 'therubyracer'
+  gem 'less-rails'
+  gem 'twitter-bootstrap-rails'
+  
+  # Simplified Form Management Support
+  gem 'simple_form'
+  
+  # Authentication Support
 
-gem 'less-rails'
+  gem 'devise'
 
-gem 'twitter-bootstrap-rails'
+  gem 'devise-bootstrap-views'
+
+  # Admin Section Support
+
+  gem 'rails_admin'

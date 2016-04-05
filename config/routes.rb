@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :vehiculos
+  resources :tipo_vehiculos
   resources :profiles, only: [:edit, :update]
   mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
   devise_for :users

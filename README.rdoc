@@ -11,6 +11,10 @@ Integrantes:
 
 ==> trabajemos en el proyecto
 
+==> Se retiraron 3 integrantes del proyecto, quedando solo 1:
+
+* Roberto Rodriguez F.
+
 Things you may want to cover:
 
 * Ruby version
